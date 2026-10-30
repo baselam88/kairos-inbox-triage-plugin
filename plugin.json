@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Sorts an owner inbox export into quotes / invoices / complaints / admin and flags anything urgent past its response window.",
+  "keywords": [
+    "inbox",
+    "kairos",
+    "small business",
+    "triage"
+  ],
+  "license": "MIT",
+  "name": "kairos-inbox-triage",
+  "repository": "https://github.com/baselam88/kairos-inbox-triage-plugin",
+  "version": "0.1.0"
+}
